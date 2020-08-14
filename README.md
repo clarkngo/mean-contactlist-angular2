@@ -13,3 +13,7 @@ heroku create
 heroku addons:create mongolab
 git push heroku master
 ```
+
+Checkout the app here:
+
+https://powerful-escarpment-26123.herokuapp.com/
