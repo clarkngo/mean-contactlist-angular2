@@ -16,4 +16,4 @@ git push heroku master
 
 Checkout the app here:
 
-https://powerful-escarpment-26123.herokuapp.com/
+[Demo App](https://powerful-escarpment-26123.herokuapp.com/)
